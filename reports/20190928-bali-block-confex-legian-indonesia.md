@@ -51,11 +51,11 @@ Day 2:
 
 ## Reflection
 
-People get to know about Decred.
+People got to know about Decred.
 
 Most people at the conference were investors and projectors.
 
-In the conference, most of them get to know about Decred for the first time. Many investors are interested in Decred right after knowing about it and its projects.
+In the conference, most of people got to know about Decred for the first time. Many investors are interested in Decred right after learning about it and its projects.
 
 One miner asked a lot about Decred and was looking to research more.
 
