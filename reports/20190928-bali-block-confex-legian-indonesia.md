@@ -53,13 +53,17 @@ Day 2:
 
 People get to know about Decred.
 
-Most people at the conference were investors and projectors.
+Most people at the conference were investors and speculators.
 
-In the conference, most of them get to know about Decred for the first time. Many investors are interested in Decred right after knowing about it and its projects.
+In the conference, most of them get to know about Decred for the first time. Many investors are interested in Decred right after knowing about it and its projects. Some people picked Decred handouts by themselves and initiatively got back to ask for more details.
 
 One miner asked a lot about Decred and was looking to research more.
 
-A Vietnamese investor, lead of an investor group in Vietnam, said he would like to have a meeting with Decred representative in Hanoi to ask more about DCR and he found DCR has potential to be invested in.
+A Vietnamese investor, lead of an investor group in Vietnam, said he would like to have a meeting with Decred representative in Hanoi to ask more about DCR and he found DCR has potential to be invested in. His contact was added into Decred Vietnam telegram group. We can get back to him via telegram. 
+
+There was substantial cost for this event...around a thousand dollars, and if only 30 people were reached, the cost per person is rather high.
+
+That would be $33 per person to learn about Decred. However, they were all potential investors.
 
 There are 2 upcoming events in Vietnam that Indonesian investors will come, one of them is Vietnam Blockchain Confex (Jan 2020).
 
